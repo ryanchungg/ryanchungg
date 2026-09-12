@@ -26,22 +26,36 @@ const ryan: Developer = {
   ]
 };
 ```
-💻 Tech Stack
-Languages
-![Image](https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&theme=dark)
-Frameworks & Backend
-![Image](https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark)
-Cloud, Databases & DevOps
-![Image](https://skillicons.dev/icons?i=gcp,docker,githubactions,postgres,redis,supabase,linux,git&theme=dark)
+# 💻 Tech Stack
 
-📬 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/ryan-chung-21b37122b/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-</a>
-<a href="mailto:rchung567@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
-</a>
-</p>
+## 🔹 Languages
+<br />
+
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&theme=dark)](https://skillicons.dev)
+
+<br />
+
+## 🔹 Frameworks & Backend
+<br />
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark)](https://skillicons.dev)
+
+<br />
+
+## 🔹 Cloud, Databases & DevOps
+<br />
+
+[![Cloud & DevOps](https://skillicons.dev/icons?i=gcp,docker,githubactions,postgres,redis,supabase,linux,git&theme=dark)](https://skillicons.dev)
+
 ---
 
+# 📬 Connect With Me
+
+<br />
+
+<a href="https://linkedin.com/in/ryan-chung-21b37122b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+</a>
+<a href="mailto:rchung567@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+</a>

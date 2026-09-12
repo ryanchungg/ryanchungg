@@ -25,6 +25,7 @@ const ryan: Developer = {
     "AI/LLM Application Pipelines"
   ]
 };
+```
 💻 Tech Stack
 Languages
 ![Image](https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&theme=dark)
@@ -42,12 +43,5 @@ Cloud, Databases & DevOps
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
 </a>
 </p>
-```
+---
 
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanchungg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanchungg&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>

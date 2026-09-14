@@ -2,7 +2,7 @@
 -----
 
 # 📬 About Me
-I'm a **Computer Science student at the University of Michigan** (Go Blue! 〽️) with a focus on full-stack development, cloud architecture, and LLM-powered backend systems.
+I'm a **Computer Science student at the University of Michigan** (Go Blue! 〽️) with a focus on full-stack development and AI-Tooling.
 
 ```python
 class Developer:
@@ -13,8 +13,7 @@ class Developer:
         self.graduation_year = 2028
         self.interests = [
             "Full-Stack Development",
-            "Cloud & DevOps (GCP, Docker, CI/CD)",
-            "AI/LLM Application Pipelines"
+            "AI Automation"
         ]
 ryan = Developer()
 ```

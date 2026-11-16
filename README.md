@@ -1,22 +1,37 @@
-# Ryan Chung
+### 👋 Hi There! My name is Ryan Chung.
+-----
 
-*CS at UMich*
+# 📬 About Me
+I'm a **Computer Science student at the University of Michigan** (Go Blue! 〽️) with a focus on full-stack development and AI-Tooling.
 
-I'm a 3rd-year at UMich studying computer science, and I like finding free ways to do things. I'm into full-stack product work — APIs, data pipelines, and the interfaces people actually use. Full-time eater, part-time runner.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Ryan Chung"
+        self.university = "University of Michigan – Ann Arbor"
+        self.major = "Computer Science, B.S."
+        self.graduation_year = 2028
+        self.interests = [
+            "Full-Stack Development",
+            "AI Automation"
+        ]
+ryan = Developer()
+```
+# 💻 Tech Stack
 
-## Projects
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | [![Languages](https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&theme=dark)](https://skillicons.dev) |
+| **Frameworks & Backend** | [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark)](https://skillicons.dev) |
+| **Cloud & DevOps** | [![Cloud & DevOps](https://skillicons.dev/icons?i=gcp,docker,githubactions,postgres,redis,supabase,linux,git&theme=dark)](https://skillicons.dev) |
 
-- [Internship Pipeline](https://github.com/ryanchungg/internship-pipeline) — recruiting emails in, an application tracker out
-- [LockedIn](https://github.com/ryanchungg/LockedIn) — goals you commit to with other people
-- [Sift](https://github.com/ryanchungg/sift) — a pdf extraction api
-- [Receipts](https://github.com/ryanchungg/fetch) — track spending and expenses for free
+---
 
-## Stack
+# 📬 Connect With Me
 
-Languages — Python, TypeScript, JavaScript, C++, C, SQL, HTML/CSS  
-Frameworks — React, FastAPI, Flask, Docker, Git, GitHub Actions  
-Cloud & data — GCP, Cloudflare, PostgreSQL, Redis, Supabase
-
-## Links
-
-[email](mailto:rchung567@gmail.com) · [linkedin](https://www.linkedin.com/in/ryan-chung-21b37122b) · [portfolio](https://github.com/ryanchungg/portfolio)
+<a href="https://linkedin.com/in/ryan-chung-21b37122b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+</a>
+<a href="mailto:rchung567@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+</a>
